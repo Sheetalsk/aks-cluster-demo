@@ -1,4 +1,7 @@
-rgname = "test-thida-rg"
 location = "eastasia"
-service_principal_name = "test-thida-spn"
-keyvault_name = "test-thida-kv"
+
+resource_group_name = "thidaresourcegroupdemo"
+cluster_name = "clusterdemo"
+ssh_key_name = "sshdemo"
+storage_account_name = "thidastorageaccountdemo"
+container_registry_name = "thidaregistrydemo"
